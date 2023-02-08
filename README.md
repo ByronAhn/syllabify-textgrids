@@ -1,7 +1,7 @@
 # syllabify-textgrids
-Using R and Python to syllabify textgrids
+Using R and Python to syllabify Praat textgrids
 
-## Details
+## Usage
 
 Load up `syllabify.R` in your favorite R environment to use this tool.
 
